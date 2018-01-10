@@ -19,7 +19,7 @@ function logWhisper(string) {
 }
 logWhisper('HELLO')
 //5 begins
-var yap = "I can\'t hear you!" 
+var yap = "I can\'t hear you!"
 var yess =  "YES INDEED!"
 var got = "I love you, too."
 function sayHiToGrandma(string) {
