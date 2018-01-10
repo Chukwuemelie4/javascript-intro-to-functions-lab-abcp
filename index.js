@@ -15,7 +15,7 @@ function logShout(string) {
 logShout('hello')
 //4 begins
 function logWhisper(string) {
-  console.log('string'.toLowerCase())
+  console.log(string.toLowerCase())
 }
 logWhisper('HELLO')
 //5 begins
